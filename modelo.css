@@ -78,7 +78,6 @@ header {
     bottom: 15px;
 
 
-
 }
 
 #cuadro2 #byp {
@@ -94,7 +93,7 @@ header {
     bottom: 330px;
     right: 1100px;
 
-}
+} 
 
 
 #cuadro3 .titulo {
@@ -111,8 +110,8 @@ header {
     padding: 0px 15px 0px 10px;
 }
 
-/* contenedor_vision */
-#contenedor_vision {
+/* contenedor_home */
+#contenedor_home {
     display: flex;
     flex-wrap: nowrap;
 }
@@ -120,6 +119,49 @@ header {
 .img11 img {
     width: 300px;
 }
+
+
+
+
+/* contenedor_vision */
+#contenedor_vision {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img13 img {
+    width: 390px;
+}
+
+
+
+
+/* cuadro_central */
+#cuadro_central {
+    display: flex;
+}
+
+#cuadro1 .titulo {
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 20px;
+    color: rgb(55, 175, 211);
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+
+#cuadro3 .letras {
+    padding-top:10px;
+    font-size: 15px;
+    text-align: justify;
+    padding: 0px 15px 0px 10px;
+}
+
+
+
+
+
+
 
 footer {
     width: 100%;
