@@ -51,7 +51,6 @@ header {
     width: 1200px;
 }
 
-
 /* cuadro_central */
 #cuadro_central {
     display: flex;
@@ -121,8 +120,6 @@ header {
 }
 
 
-
-
 /* contenedor_vision */
 #contenedor_vision {
     display: flex;
@@ -134,6 +131,9 @@ header {
 }
 
 
+.img15 img {
+    width: 1200px;
+}
 
 
 /* cuadro_central */
@@ -156,11 +156,6 @@ header {
     text-align: justify;
     padding: 0px 15px 0px 10px;
 }
-
-
-
-
-
 
 
 footer {
