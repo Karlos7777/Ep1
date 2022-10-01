@@ -4,6 +4,10 @@
     margin: auto;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     width: 90%;
     max-width: 1200px;
@@ -92,7 +96,7 @@ header {
     bottom: 330px;
     right: 1100px;
 
-} 
+}
 
 
 #cuadro3 .titulo {
@@ -151,7 +155,7 @@ header {
 }
 
 #cuadro3 .letras {
-    padding-top:10px;
+    padding-top: 10px;
     font-size: 15px;
     text-align: justify;
     padding: 0px 15px 0px 10px;
